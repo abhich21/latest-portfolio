@@ -24,7 +24,7 @@ export default function Project() {
             linkBlog:
                 'https://medium.com/@deeptange/how-we-build-a-clone-of-the-gymshark-com-website-f9ea841b45db',
             title: 'GymShark',
-            desc: 'GymShark is a U.S. website for Sportswear for men and women. You an find everytype of sports wear at this website.',
+            desc: 'GymShark is a U.S. website of every type of Sportswear for men and women.',
             img: 'gymshark.jpg',
         },
         {
@@ -46,7 +46,7 @@ export default function Project() {
             linkBlog:
                 'https://medium.com/@deeptange/how-we-build-a-clone-of-the-gymshark-com-website-f9ea841b45db',
             title: 'GymShark',
-            desc: 'GymShark is a U.S. website for Sportswear for men and women. You an find everytype of sports wear at this website.',
+            desc: 'GymShark is a U.S. website of every type of Sportswear for men and women.',
             img: 'gymshark.jpg',
         },
         {
@@ -68,7 +68,7 @@ export default function Project() {
             linkBlog:
                 'https://medium.com/@deeptange/how-we-build-a-clone-of-the-gymshark-com-website-f9ea841b45db',
             title: 'GymShark',
-            desc: 'GymShark is a U.S. website for Sportswear for men and women. You an find everytype of sports wear at this website.',
+            desc: 'GymShark is a U.S. website of every type of Sportswear for men and women.',
             img: 'gymshark.jpg',
         }
     ];

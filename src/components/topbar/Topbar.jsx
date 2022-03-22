@@ -8,15 +8,15 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
             <div className="wrapper">
                 <div className="left">
                     <div className="logoImg">
-                        <img src="abhiLogo.png" />
+                        <img src="acLogo2.png" alt=""/>
                     </div>
                     <div className="itemContainer">
                         <Person className="icon" />
-                        <span>+91 7098822766</span>
+                        <span>+91 7449647655</span>
                     </div>
                     <div className="itemContainer">
                         <Mail className="icon" />
-                        <span>mahatoabhishek123@gmail.com</span>
+                        <span>abhich2109@gmail.com</span>
                     </div>
                 </div>
                 <div className="right">
@@ -37,7 +37,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                     </div>
                     <div className="itemContainer1" id="lastDiv">
                         <a
-                            href="https://drive.google.com/file/d/1gW1X5KnVRla6NMQZ3Adk42qvqBrK1Fjr/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1KCAtJo__qsHCyXvwAv86S46KQKjvU57X/view?usp=sharing"
                             target="blank"
                             id="last"
                         >

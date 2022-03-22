@@ -65,10 +65,10 @@ export default function Skill() {
                     url: 'https://www.clipartmax.com/png/middle/470-4707396_javascript-icon-html-css-js-icons.png',
                     title1: 'Javascript',
                 },
-                {
-                    url: 'https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg',
-                    title1: 'C++',
-                },
+                // {
+                //     url: 'https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg',
+                //     title1: 'C++',
+                // },
                 // {
                 //   url:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsupB4K75qK8ZdMPUX2INSSCLeCF2UQlgCJSgIFHPc6OWMHbkxOgeAV6Ti9aL6ZacKNOM&usqp=CAU",
                 //   title1: "C",
