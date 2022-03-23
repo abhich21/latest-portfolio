@@ -8,7 +8,7 @@ export default function Project() {
         {
             id: '1',
             icon: 'https://cdn.shopify.com/s/files/1/0263/9511/5591/files/About-himalaya.png?v=1609989932',
-            linkSite: 'https://himalayacwproject.netlify.app/',
+            linkSite: 'https://himalyausa-clone.netlify.app/',
             linkGithub: 'https://github.com/ritesh-2124/Himalaya-clone',
             linkBlog:
                 'https://medium.com/@sakshirai727/cloning-of-the-himalaya-website-5dff1b761237',
@@ -30,7 +30,7 @@ export default function Project() {
         {
             id: '1',
             icon: 'https://cdn.shopify.com/s/files/1/0263/9511/5591/files/About-himalaya.png?v=1609989932',
-            linkSite: 'https://himalayacwproject.netlify.app/',
+            linkSite: 'https://himalyausa-clone.netlify.app/',
             linkGithub: 'https://github.com/ritesh-2124/Himalaya-clone',
             linkBlog:
                 'https://medium.com/@sakshirai727/cloning-of-the-himalaya-website-5dff1b761237',
@@ -52,7 +52,7 @@ export default function Project() {
         {
             id: '1',
             icon: 'https://cdn.shopify.com/s/files/1/0263/9511/5591/files/About-himalaya.png?v=1609989932',
-            linkSite: 'https://himalayacwproject.netlify.app/',
+            linkSite: 'https://himalyausa-clone.netlify.app/',
             linkGithub: 'https://github.com/ritesh-2124/Himalaya-clone',
             linkBlog:
                 'https://medium.com/@sakshirai727/cloning-of-the-himalaya-website-5dff1b761237',
