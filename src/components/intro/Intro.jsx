@@ -27,7 +27,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer" data-aos="fade-right">
-          <img src="mypic.png" alt=""/>
+          <img src="my_picture.png" alt=""/>
         </div>
       </div>
       <div className="right">
