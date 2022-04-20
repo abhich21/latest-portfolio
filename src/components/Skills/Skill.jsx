@@ -39,7 +39,7 @@ export default function Skill() {
                     title1: 'Node.js',
                 },
                 {
-                    url: 'https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png',
+                    url: 'https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-thumbnail.png',
                     title1: 'MongoDB',
                 },
                 // {
